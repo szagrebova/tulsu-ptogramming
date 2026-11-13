@@ -13,8 +13,8 @@
 ## 🖥️ Визуализация работы программы
 
 <p align="center">
-  <img src="da_screen_1.png" width="45%" alt="Добавление студента" />
-  <img src="da_screen_2.png" width="45%" alt="Сформированная очередь" />
+  <img src="da_screen_1.png" width="25%" alt="Добавление студента" />
+  <img src="da_screen_2.png" width="25%" alt="Сформированная очередь" />
 </p>
 
 ## 📂 Структура проекта
